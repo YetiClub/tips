@@ -15,6 +15,8 @@ module.exports = {
       },
     },
   },
+  contracts_build_directory: './frontend/src/contracts',
+  
   networks: {
     mainnet: {
       network_id: 1,
