@@ -17,7 +17,7 @@
     "truffle-flattener": "^1.5.0"
   },
 
-  "homepage": "http://YetiClub.github.io/tips",
+  
   "scripts": {
     "build": "truffle compile",
     "deploy": "truffle migrate",
@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nftfy/nftfy-v1-core.git"
+    "url": "git+https://github.com/YetiClub/tips.git"
   },
   "author": "raugfer",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/nftfy/nftfy-v1-core/issues"
+    "url": "https://github.com/YetiClub/tips"
   },
-  "homepage": "https://github.com/nftfy/nftfy-v1-core#readme"
+  "homepage": "http://YetiClub.github.io/tips"
 }
