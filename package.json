@@ -1,7 +1,7 @@
 {
-  "name": "nftfy-v1-core",
+  "name": "TIPS",
   "version": "1.0.0",
-  "description": "Nftfy V1 Core Smart Contracts",
+  "description": "TIPS Core Smart Contracts",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
